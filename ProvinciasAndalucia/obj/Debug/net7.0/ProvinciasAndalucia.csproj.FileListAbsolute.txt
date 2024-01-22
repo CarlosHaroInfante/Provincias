@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\bin\Debug\net7.0\ProvinciasAndalucia.exe
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\bin\Debug\net7.0\ProvinciasAndalucia.deps.json
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\bin\Debug\net7.0\ProvinciasAndalucia.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\bin\Debug\net7.0\ProvinciasAndalucia.dll
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\bin\Debug\net7.0\ProvinciasAndalucia.pdb
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.dll
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\refint\ProvinciasAndalucia.dll
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.pdb
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ProvinciasAndalucia.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\ProvinciasAndalucia\obj\Debug\net7.0\ref\ProvinciasAndalucia.dll
